@@ -17,9 +17,8 @@ public class AddSpringProjectApplication {
 
 		MyController myController = (MyController) ctx.getBean("myController");
 
-		String greeting = myController.sayHello();
-
-		System.out.println(greeting);
+		System.out.println("______Primary Bean");
+		System.out.println(myController.sayHello());
 
 		System.out.println("_________Property");
 		PropertyInjectedController propertyInjectedController = (PropertyInjectedController) ctx.getBean("propertyInjectedController");
