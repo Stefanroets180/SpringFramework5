@@ -5,17 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1e483f-1dfd-4106-b014-75f8c111e720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/PropertyInjectedGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/SetterInjectedGreetingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/AddSpringProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/AddSpringProjectApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/ConstructorInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/ConstructorInjectedController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/PropertyInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/PropertyInjectedController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/SetterInjectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/SetterInjectedController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/GreetingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/GreetingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/GreetingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/ConstructorGreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/add-spring-project-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/add-spring-project-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/add-spring-project-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/add-spring-project-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/AddSpringProjectApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/AddSpringProjectApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/ConstructorInjectedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/ConstructorInjectedController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/PropertyInjectedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/PropertyInjectedController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/SetterInjectedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/SetterInjectedController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/GreetingServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/GreetingServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/GreetingServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.stefan.addspringproject.AddSpringProjectApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.stefan.addspringproject.AddSpringProjectApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.stefan.addspringproject.AddSpringProjectApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.stefan.addspringproject.AddSpringProjectApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,13 +90,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.AddSpringProjectApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,7 +174,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626772026147</updated>
-      <workItem from="1626772027865" duration="7249000" />
+      <workItem from="1626772027865" duration="8663000" />
+      <workItem from="1626789220772" duration="2345000" />
     </task>
     <servers />
   </component>
@@ -178,6 +192,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

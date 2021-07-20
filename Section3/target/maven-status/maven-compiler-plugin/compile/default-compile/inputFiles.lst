@@ -1,1 +1,7 @@
+/Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/services/GreetingServiceImpl.java
+/Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/controllers/MyController.java
+/Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/services/GreetingService.java
+/Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/controllers/PropertyInjectedController.java
 /Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/AddSpringProjectApplication.java
+/Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/controllers/SetterInjectedController.java
+/Users/stefanroets/Documents/IdeaProjects/SpringFrameWorks5/Section3/src/main/java/com/stefan/addspringproject/controllers/ConstructorInjectedController.java
