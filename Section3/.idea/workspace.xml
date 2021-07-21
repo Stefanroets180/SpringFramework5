@@ -5,8 +5,148 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1e483f-1dfd-4106-b014-75f8c111e720" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/I18nAfrikaansService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/I18nAfrikaansService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/AddSpringProjectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/controllers/ConstructorInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/controllers/I18nController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/controllers/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/controllers/PropertyInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/controllers/SetterInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/ConstructorGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/I18NSpanishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/I18nAfrikaansService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/I18nEnglishGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/PrimaryGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/PropertyInjectedGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/java/com/stefan/addspringproject/services/SetterInjectedGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/test/java/com/stefan/addspringproject/AddSpringProjectApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/test/java/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/test/java/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/src/test/java/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/add-spring-project-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/add-spring-project-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/AddSpringProjectApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/controllers/ConstructorInjectedController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/controllers/I18nController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/controllers/MyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/controllers/PropertyInjectedController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/controllers/SetterInjectedController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/ConstructorGreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/GreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/I18NSpanishService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/I18nAfrikaansService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/I18nEnglishGreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/PrimaryGreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/PropertyInjectedGreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/classes/com/stefan/addspringproject/services/SetterInjectedGreetingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/TEST-com.stefan.addspringproject.AddSpringProjectApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/TEST-com.stefan.addspringproject.controllers.ConstructorInjectedControllerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/TEST-com.stefan.addspringproject.controllers.PropertyInjectedControllerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/TEST-com.stefan.addspringproject.controllers.SetterInjectedControllerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/com.stefan.addspringproject.AddSpringProjectApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/com.stefan.addspringproject.controllers.ConstructorInjectedControllerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/com.stefan.addspringproject.controllers.PropertyInjectedControllerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/surefire-reports/com.stefan.addspringproject.controllers.SetterInjectedControllerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/test-classes/com/stefan/addspringproject/AddSpringProjectApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/test-classes/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/test-classes/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld1-12/target/test-classes/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/SfgDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/controllers/ConstructorInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/controllers/I18nController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/controllers/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/controllers/PetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/controllers/PropertyInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/controllers/SetterInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/CatPetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/ConstructorGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/DogPetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/I18NSpanishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/I18nEnglishGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/PrimaryGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/PropertyInjectedGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/java/guru/springframework/sfgdi/services/SetterInjectedGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/test/java/guru/springframework/sfgdi/SfgDiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/test/java/guru/springframework/sfgdi/controllers/ConstructorInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/test/java/guru/springframework/sfgdi/controllers/PropertyInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBeanLifeCycle/src/test/java/guru/springframework/sfgdi/controllers/SetterInjectedControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/AddSpringProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/ConstructorInjectedController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/I18nController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/PropertyInjectedController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/controllers/SetterInjectedController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/ConstructorGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/GreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/I18NSpanishService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/I18nAfrikaansService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/I18nEnglishGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/PrimaryGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/PropertyInjectedGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stefan/addspringproject/services/SetterInjectedGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/AddSpringProjectApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/add-spring-project-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/add-spring-project-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/AddSpringProjectApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/ConstructorInjectedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/I18nController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/MyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/PropertyInjectedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/controllers/SetterInjectedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/ConstructorGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/I18NSpanishService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/I18nAfrikaansService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/I18nEnglishGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/PrimaryGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/PropertyInjectedGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stefan/addspringproject/services/SetterInjectedGreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.stefan.addspringproject.AddSpringProjectApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.stefan.addspringproject.controllers.ConstructorInjectedControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.stefan.addspringproject.controllers.PropertyInjectedControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.stefan.addspringproject.controllers.SetterInjectedControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.stefan.addspringproject.AddSpringProjectApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.stefan.addspringproject.controllers.ConstructorInjectedControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.stefan.addspringproject.controllers.PropertyInjectedControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.stefan.addspringproject.controllers.SetterInjectedControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/AddSpringProjectApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/ConstructorInjectedControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/PropertyInjectedControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stefan/addspringproject/controllers/SetterInjectedControllerTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +295,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626772026147</updated>
       <workItem from="1626772027865" duration="8663000" />
-      <workItem from="1626789220772" duration="7474000" />
+      <workItem from="1626789220772" duration="8071000" />
     </task>
     <servers />
   </component>
