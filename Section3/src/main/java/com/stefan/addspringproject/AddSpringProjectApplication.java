@@ -1,9 +1,6 @@
 package com.stefan.addspringproject;
 
-import com.stefan.addspringproject.controllers.ConstructorInjectedController;
-import com.stefan.addspringproject.controllers.MyController;
-import com.stefan.addspringproject.controllers.PropertyInjectedController;
-import com.stefan.addspringproject.controllers.SetterInjectedController;
+import com.stefan.addspringproject.controllers.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
@@ -14,6 +11,9 @@ public class AddSpringProjectApplication {
 	public static void main(String[] args) {
 
 		ApplicationContext ctx = SpringApplication.run(AddSpringProjectApplication.class, args);
+
+		I18nController i18nController = (I18nController) ctx.getBean("i18nController");
+		System.out.println(i18nController.sayHello());
 
 		MyController myController = (MyController) ctx.getBean("myController");
 
