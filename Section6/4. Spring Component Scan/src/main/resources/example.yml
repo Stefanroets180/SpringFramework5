@@ -1,0 +1,37 @@
+## this is a comment
+#
+#name: Roets
+#
+#names: #Comment
+#  -Roets
+#  -Stefan
+#  -Anton
+#
+#pound_sign: "#"
+#
+#book:
+#  author: Joe Buck
+#  publisher: random house
+#
+#truth: yes
+#
+#another_truth: True
+#
+#more_true: true
+#
+#fales: no #no, false, FALSE
+#
+#string_val: "This is it's quote "
+#
+#colon_string: "my coureses: one two three"
+#
+#include_new_line: |
+#  asdf asdf asdf
+#  asdf jfjhg jhgmnbf
+#  giyjuthfbvkl hkhnv ghfv
+#  ygjlgugg
+#
+#ignore_new_lines: >
+#  this is
+#  just one long
+#  string
