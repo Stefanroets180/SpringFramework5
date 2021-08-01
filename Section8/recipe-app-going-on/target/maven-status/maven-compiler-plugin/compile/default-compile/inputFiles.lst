@@ -1,0 +1,8 @@
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/domain/Category.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/domain/Recipe.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/domain/Ingredient.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/domain/Notes.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/domain/Difficulty.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/Spring5RecipeAppApplication.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/controllers/IndexController.java
+/Users/stefanroets/Desktop/spring5-recipe-app-many-to-many-jpa-example/src/main/java/guru/springframework/domain/UnitOfMeasure.java
